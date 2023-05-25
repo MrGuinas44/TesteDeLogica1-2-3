@@ -1,0 +1,15 @@
+C:\Users\prestes\Atividades C#\01sus\bin\Debug\net7.0\01sus.exe
+C:\Users\prestes\Atividades C#\01sus\bin\Debug\net7.0\01sus.deps.json
+C:\Users\prestes\Atividades C#\01sus\bin\Debug\net7.0\01sus.runtimeconfig.json
+C:\Users\prestes\Atividades C#\01sus\bin\Debug\net7.0\01sus.dll
+C:\Users\prestes\Atividades C#\01sus\bin\Debug\net7.0\01sus.pdb
+C:\Users\prestes\Atividades C#\01sus\obj\Debug\net7.0\01sus.csproj.AssemblyReference.cache
+C:\Users\prestes\Atividades C#\01sus\obj\Debug\net7.0\01sus.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\prestes\Atividades C#\01sus\obj\Debug\net7.0\01sus.AssemblyInfoInputs.cache
+C:\Users\prestes\Atividades C#\01sus\obj\Debug\net7.0\01sus.AssemblyInfo.cs
+C:\Users\prestes\Atividades C#\01sus\obj\Debug\net7.0\01sus.csproj.CoreCompileInputs.cache
+C:\Users\prestes\Atividades C#\01sus\obj\Debug\net7.0\01sus.dll
+C:\Users\prestes\Atividades C#\01sus\obj\Debug\net7.0\refint\01sus.dll
+C:\Users\prestes\Atividades C#\01sus\obj\Debug\net7.0\01sus.pdb
+C:\Users\prestes\Atividades C#\01sus\obj\Debug\net7.0\01sus.genruntimeconfig.cache
+C:\Users\prestes\Atividades C#\01sus\obj\Debug\net7.0\ref\01sus.dll

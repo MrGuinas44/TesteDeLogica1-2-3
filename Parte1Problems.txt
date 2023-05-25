@@ -1,0 +1,41 @@
+1-{
+      int a = 10;
+      int b = 20;
+      int c = (a + b)/ 2;
+      c = c-40;
+      int[] v = new int[10];
+      v[4] = a+b+c;
+
+      Console.WriteLine(a);
+      Console.WriteLine(b);
+      Console.WriteLine(c);
+      Console.WriteLine(v[4]);
+ }
+
+2-{
+      int a = 2;
+      int[] v = new int[10];
+
+      while(a<6)
+      {
+            v[a] = 10 * a;
+            Console.WriteLine($"\nValor de A: {a}");
+            Console.WriteLine($"Valor do vetor: {v[a]}");
+            a++;
+      }
+}
+
+3-{
+      int a = 7;
+      int b = a - 6;
+      int[] v = new int[10];
+
+      while(b<a)
+      {
+            v[b]=b+a;
+            Console.WriteLine($"\nValor do vetor B: {v[b]}");
+            b=b+2;
+            Console.WriteLine($"Valor de B: {b}");
+      }
+      Console.WriteLine($"\nValor de A: {a}");
+}
